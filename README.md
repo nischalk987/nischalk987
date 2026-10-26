@@ -41,16 +41,10 @@ Interested in AI, software development, computer networks, and building useful p
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 🚀 Projects
+## 📂 Repositories
 
-### [Packet Loss Detection & Recovery](https://github.com/nischalk987/Packet_loss_detection)
-A networking project exploring UDP communication, packet-loss detection, Mininet network simulation, and SDN-based dynamic rerouting.
-
-### [CodeGuardAI](https://github.com/nischalk987)
-An AI-assisted code review project. Visit my repositories for the current implementation and updates.
-
-### [My Repositories](https://github.com/nischalk987?tab=repositories)
-Explore my coding practice, experiments, and projects.
+- **[Packet Loss Detection & Recovery](https://github.com/nischalk987/Packet_loss_detection)** — UDP communication, packet-loss detection, Mininet simulation, and SDN-based rerouting.
+- **[Browse All Repositories](https://github.com/nischalk987?tab=repositories)** — Explore my projects, coding practice, and experiments.
 
 ## 📚 Currently Learning
 
@@ -62,7 +56,7 @@ Explore my coding practice, experiments, and projects.
 ## 🤝 Connect
 
 - GitHub: [@nischalk987](https://github.com/nischalk987)
-- Repositories: [github.com/nischalk987?tab=repositories](https://github.com/nischalk987?tab=repositories)
+- Repositories: [Browse all repositories](https://github.com/nischalk987?tab=repositories)
 
 ---
 
