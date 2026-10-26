@@ -25,7 +25,7 @@ Interested in AI, software development, computer networks, and building useful p
 - Interested in **Artificial Intelligence, Machine Learning, and Deep Learning**.
 - Learning and practicing **C, C++, and Python**.
 - Exploring web development with **React and FastAPI**.
-- Practicing **Data Structures and Algorithms**, including graphs, BFS/DFS, and trees.
+- Practicing **Data Structures and Algorithms**
 - I learn by building projects, experimenting, and improving step by step.
 
 ## 🛠️ Technologies
