@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Nischal
+# Hi, I'm Nischal.K
 
 **B.Tech CSE Student at PES University, Bengaluru**
 
