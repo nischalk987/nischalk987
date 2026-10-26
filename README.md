@@ -43,15 +43,8 @@ Interested in AI, software development, computer networks, and building useful p
 
 ## 📂 Repositories
 
-- **[Packet Loss Detection & Recovery](https://github.com/nischalk987/Packet_loss_detection)** — UDP communication, packet-loss detection, Mininet simulation, and SDN-based rerouting.
 - **[Browse All Repositories](https://github.com/nischalk987?tab=repositories)** — Explore my projects, coding practice, and experiments.
 
-## 📚 Currently Learning
-
-- **DSA:** Graph traversal (BFS/DFS), trees, and problem solving
-- **Computer Networks:** UDP/TCP, packet loss, Mininet, and SDN
-- **AI & Deep Learning:** Fundamentals and practical applications
-- **Software Development:** Building and improving complete applications
 
 ## 🤝 Connect
 
