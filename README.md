@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="be7bd34b-02c0-4ad1-9452-1292fed35d60.png" width="300" alt="Nischal profile image" />
+
 # Hi, I'm Nischal 👋
 
 **B.Tech CSE Student at PES University, Bengaluru**
