@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="IMG-20260602-WA0042.jpg" alt="Nischal" width="150" align="left" />
+<img src="IMG-20260602-WA0042.jpg" alt="Nischal" width="160" />
 
 # Hi, I'm Nischal
 
