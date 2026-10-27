@@ -19,6 +19,12 @@ Interested in AI, software development, computer networks, and building useful p
 
 ---
 
+## Profile Image
+
+<div align="center">
+  <img src="IMG-20260602-WA0042.jpg" alt="Nischal's profile image" width="320" />
+</div>
+
 ## About Me
 
 - Computer Science Engineering student at **PES University, Bengaluru**.
